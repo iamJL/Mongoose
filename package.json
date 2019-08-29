@@ -1,12 +1,12 @@
 {
   "name": "nodekb",
   "version": "1.0.0",
-  "description": "Simple knowledgebase app",
+  "description": "Query It",
   "main": "app.js",
   "scripts": {
     "start": "node app"
   },
-  "author": "Brad Traversy",
+  "author": "Mongoose",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
